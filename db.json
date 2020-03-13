@@ -14,8 +14,8 @@
 “title” : ”Question title”,
 “text” : “How can I do this?”,
 “username” : “John Doe”,
-“publicationDate” : ”<timestamp>”
-“userImageUrl” :”<url to user avatar>”,
+“publicationDate” : “<timestamp>”
+“userImageUrl” :“<url to user avatar>”,
 “answersCount” : 4,
 “answers” : [
 {
