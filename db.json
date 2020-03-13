@@ -1,28 +1,11 @@
 {
-“questions”:[
-{
-“id” : 1
-“title” : ”Question title”,
-“text” : “How can I do this?”,
-“userImageUrl” :”<url to user avatar>”,
-“answersCount” : 4
-}
-],
-“question”:[
-{
-“id” : 1
-“title” : ”Question title”,
-“text” : “How can I do this?”,
-“username” : “John Doe”,
-“publicationDate” : “<timestamp>”
-“userImageUrl” :“<url to user avatar>”,
-“answersCount” : 4,
-“answers” : [
-{
-“username” : “Mary Ann”,
-“answer” : “Answer to question”
-}
-]
-}
-]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
