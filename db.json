@@ -4,7 +4,7 @@
             "id" : 1,
             "title" : "Question title",
             "text" : "How can I do this?",
-            "userImageUrl" :"<url to user avatar>",
+            "userImageUrl" :"https://i.pravatar.cc/300",
             "answersCount" : 4
         }
     ],
@@ -15,7 +15,7 @@
             "text" : "How can I do this?",
             "username" : "John Doe",
             "publicationDate" : "<timestamp>",
-            "userImageUrl" :"<url to user avatar>",
+            "userImageUrl" :"https://i.pravatar.cc/300",
             "answersCount" : 4,
             "answers" : [
             {
