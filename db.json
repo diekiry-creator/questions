@@ -28,7 +28,7 @@
             "title": "Question title",
             "text" : "How can I do this?",
             "username" : "John Doe",
-            "publicationDate" : "<timestamp>",
+            "publicationDate" : "19.03.2020",
             "userImageUrl" :"https://i.pravatar.cc/300",
             "answersCount" : 4,
             "answers" : [
@@ -42,8 +42,8 @@
             "id" : 2,
             "title": "Question title",
             "text" : "How can I do this? How can I do this?",
-            "username" : "John Doe",
-            "publicationDate" : "<timestamp>",
+            "username" : "Petter Parker",
+            "publicationDate" : "20.03.2020",
             "userImageUrl" :"https://i.pravatar.cc/300",
             "answersCount" : 5,
             "answers" : [
@@ -57,8 +57,8 @@
             "id" : 3,
             "title": "Question title",
             "text" : "How can I do this? How can I do this? How can I do this?",
-            "username" : "John Doe",
-            "publicationDate" : "<timestamp>",
+            "username" : "Petter Griffin",
+            "publicationDate" : "20.03.2020",
             "userImageUrl" :"https://i.pravatar.cc/300",
             "answersCount" : 6,
             "answers" : [
